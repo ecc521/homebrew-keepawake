@@ -6,7 +6,7 @@ This is the official Homebrew Tap for [keepawake](https://github.com/ecc521/keep
 
 ```bash
 brew tap ecc521/keepawake
-brew install keepawake
+brew install ecc521/keepawake/keepawake
 ```
 
 This builds from source (a small Swift CLI), since the tool relies on an undocumented private macOS API that can't be notarized for a prebuilt binary distribution.
@@ -14,7 +14,7 @@ This builds from source (a small Swift CLI), since the tool relies on an undocum
 ## Updates
 
 ```bash
-brew upgrade keepawake
+brew upgrade ecc521/keepawake/keepawake
 ```
 
 ## Usage
