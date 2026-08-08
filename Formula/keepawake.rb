@@ -1,8 +1,8 @@
 class Keepawake < Formula
   desc "Keep a MacBook awake with the lid closed, no external display needed"
   homepage "https://github.com/ecc521/keepawake"
-  url "https://github.com/ecc521/keepawake/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "aaed702ee77a5d6b9a2b2145d2fac7964d82d5262421e7d162529d713103f2c0"
+  url "https://github.com/ecc521/keepawake/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "e6c78479f331f96c956769efeed08387bfec15a5ad2f92a4e456fd0013cc6ba3"
   license "MIT"
 
   depends_on macos: :ventura
